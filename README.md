@@ -9,7 +9,7 @@
 3. Docker Desktop 4.22.0 
 4. DBeaver 23.2.1.
 ## Инструкция для запуска автотестов
-1. Клонировать [проект](https://github.com/supernatashenka/aqa-diploma-kostina)
+1. Клонировать [проект](https://github.com/daishanqa/graduate_work)
 2. Открыть проект в IntelliJ IDEA
 3. Запустить Docker Desktop 
 4. Выполнить команду `docker-compose up --build` в терминале IntelliJ IDEA  
