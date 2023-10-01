@@ -1,7 +1,7 @@
 # Дипломный проект по профессии «Тестировщик»
 
 ## Документация
-* [Задание]https://github.com/netology-code/qa-diploma
+* [Задание](https://github.com/netology-code/qa-diploma)
 
 ## Перечень необходимых инструментов 
 1. IntelliJ IDEA 2022.2.1 (Community Edition)
