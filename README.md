@@ -2,6 +2,9 @@
 
 ## Документация
 * [Задание](https://github.com/netology-code/qa-diploma)
+* [План автоматизации](https://github.com/daishanqa/graduate_work/blob/main/Dokuments/Plan.md)
+* [Отчёт о проведённом тестировании](https://github.com/daishanqa/graduate_work/blob/main/Dokuments/Report.md)
+* [Отчёт о проведённой автоматизации](https://github.com/daishanqa/graduate_work/blob/main/Dokuments/Summary.md)
 
 ## Перечень необходимых инструментов 
 1. IntelliJ IDEA 2022.2.1 (Community Edition)
